@@ -7,7 +7,7 @@ info:
   contact:
     email: cloud-api.support@de.bosch.com
     name: Bosch eBike Systems Support
-  description: jhgjhThe Activity Records API allows riders to query past activities which have been recorded using the eBike Flow app. It provides access to activity details as well as a comprehensive activity summary after a ride is successfully finished.
+  description: hhgjhgjhThe Activity Records API allows riders to query past activities which have been recorded using the eBike Flow app. It provides access to activity details as well as a comprehensive activity summary after a ride is successfully finished.
 servers:
   - description: Production
     url: 'https://api.bosch-ebike.com/activity/smart-system/v1'
